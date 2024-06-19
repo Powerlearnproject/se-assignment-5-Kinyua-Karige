@@ -18,11 +18,10 @@ Answer the following questions based on your understanding of the installation a
 2. First-time Setup:
    - After installing VS Code, what initial configurations and settings should be adjusted for an optimal coding environment? Mention any important settings or extensions.
              
-               Language-Specific Extensions:
-
+      Language-Specific Extensions
          Python: Microsoft’s Python extension.
          JavaScript/TypeScript: ESLint, Prettier - Code formatter.
-         HTML/CSS: HTML Snippets, CSS Peek.
+         TML/CSS: HTML Snippets, CSS Peek.
          C++: C/C++ by Microsoft.
          Java: Java Extension Pack by Microsoft.
 
