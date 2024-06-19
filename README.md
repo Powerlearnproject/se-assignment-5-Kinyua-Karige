@@ -107,7 +107,7 @@ Answer the following questions based on your understanding of the installation a
 10. Using Source Control:
     - How can users integrate Git with VS Code for version control? Describe the process of initializing a repository, making commits, and pushing changes to GitHub.
 
-Integrating Git with VS Code for Version Control
+         Integrating Git with VS Code for Version Control
 
       1. Initialize a Repository:
 
